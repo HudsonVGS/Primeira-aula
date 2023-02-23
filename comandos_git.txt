@@ -1,0 +1,10 @@
+//iniciar um controle de versão
+git init
+
+//verificar alterações/modificações
+git status
+
+//adicionar arquivo à proxima versao
+git add nomedoarquivo.extensaodoarquivo
+
+//gerar proxima versao
